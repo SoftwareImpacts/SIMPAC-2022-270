@@ -1,8 +1,7 @@
 # TS_Evolutionary_Prototyping
 A Python module for finding the prototype in large sets of time series
 
-
-BRIEF EXPLANATION
+The implemented software allows to find it from a set of time series using the dynamic time warping (DTW) as the distance measure between series and does not restrict the search space for the prototype to the series of the input set. The software also includes use cases for the library using it in applications of clustering and classification. 
 
 ## Main Features ##
 
@@ -59,7 +58,20 @@ Example of use of Nearest Centroid algorithm with GA-Segments:
   
  ## Citing ## 
  
- If eeglib has been useful in your research, please, consider citing the next article.
+ If TS_Evolutionary_Prototyping has been useful in your research, please, consider citing the next article:
+ 
+ @article{LEONALCAIDE202074,
+title = {An evolutionary approach for efficient prototyping of large time series datasets},
+journal = {Information Sciences},
+volume = {511},
+pages = {74-93},
+year = {2020},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2019.09.044},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025519308965},
+author = {Pablo Leon-Alcaide and Luis Rodriguez-Benitez and Ester Castillo-Herrera and Juan Moreno-Garcia and Luis Jimenez-Linares},
+keywords = {Time series summarization, Genetic algorithms, Elastic distances, Data mining},
+}
 
 ## Documents related ##
 
