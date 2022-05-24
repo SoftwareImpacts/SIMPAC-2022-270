@@ -62,19 +62,3 @@ Example of use of Nearest Centroid algorithm with GA-Segments:
  
 (https://www.sciencedirect.com/science/article/pii/S0020025519308965)
 
-## Documents related ##
-
-This library was initialy a Final Degree Project and you can find the documentation of the development in the next link:
-
-* Final Degree Project Documentation (Spanish)
-
-Later it was extented as part of a Master's thesis that can be found in the next link:
-
-
-
-### Scientific papers ###
-
-There are also some papers related to this library that can be seen bellow:
-
-Characterisation of mobile-device tasks by their associated cognitive load through EEG data processing
-eeglib: computational analysis of cognitive performance during the use of video games
