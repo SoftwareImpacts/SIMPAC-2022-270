@@ -21,7 +21,7 @@ pip ...
 
 # Getting Started
 
-Bellow there is a Quickstart Guide to EvolutionaryPrototypingTS.
+Bellow there is a Quickstart Guide to TS_Evolutionary_Prototyping.
 
 ## Basic example ##
  
@@ -30,12 +30,13 @@ Next piece of code shows a basic usage of the library. In it is shown how to imp
 
 ```python
 
-	>>> from ga_segments.ga import GA_segments
+	>>> from TS_Evolutionary_Prototyping.ga import TS_prototyping
 	>>> import pandas as pd
 	
 	>>> series = pd.read_csv('./data/50words_TRAIN', header=None).values[:, 1:]
 	
-	>>> ga = GA_segments()
+	
+	>>> ga = TS_prototyping()
 	>>> centroid, best_fitness, log = ga.calculate_centroids(series)
 ```
 	
