@@ -27,7 +27,7 @@ Bellow there is a Quickstart Guide to EvolutionaryPrototypingTS.
  
 Next piece of code shows a basic usage of the library. In it is shown how to import a file and x
 
-.. code-block:: python
+..code-block:: python
 
 	>>> from ga_segments.ga import GA_segments
 	>>> import pandas as pd
