@@ -11,7 +11,7 @@ The implemented software allows to find it from a set of time series using the d
 
 ## Installation ##
 
-pip ...
+pip install git+https://github.com/lrbenitez/TS_Evolutionary_Prototyping#egg=TS
 
 ## Dependencies ##
 
