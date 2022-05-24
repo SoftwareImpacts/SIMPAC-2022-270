@@ -27,7 +27,7 @@ Bellow there is a Quickstart Guide to EvolutionaryPrototypingTS.
  
 Next piece of code shows a basic usage of the library. In it is shown how to import a file and x
 
-..code-block:: python
+
 ```python
 
 	>>> from ga_segments.ga import GA_segments
@@ -42,8 +42,7 @@ Next piece of code shows a basic usage of the library. In it is shown how to imp
 	
 Example of use of Nearest Centroid algorithm with GA-Segments:
 
-.. code-block:: python
-
+```python
 	>>> from ga_segments.nc import NC
 	>>> import pandas as pd
 	>>> from sklearn.model_selection import train_test_split
@@ -56,7 +55,7 @@ Example of use of Nearest Centroid algorithm with GA-Segments:
 	>>> nc.fit(x_train, y_train)
 	>>> nc.predict(x_val)
 	>>> nc.labels
-  
+  ```
   
  ## Citing ## 
  
