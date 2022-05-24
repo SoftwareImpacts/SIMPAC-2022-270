@@ -5,7 +5,9 @@ The implemented software allows to find it from a set of time series using the d
 
 ## Main Features ##
 
-Enumerating keywords
+* Implementation of a genetic algorithm to find the prototype in a set of series.
+* Development of automatic learning algorithms for the use of prototyping functionalities.
+* Implementation of the elastic distance in an efficient way.
 
 ## Installation ##
 
@@ -25,7 +27,7 @@ Bellow there is a Quickstart Guide to TS_Evolutionary_Prototyping.
 
 ## Basic example ##
  
-Next piece of code shows a basic usage of the library. In it is shown how to import a file and x
+Next piece of code shows a basic usage of the library. In it is shown how to import a file with Time Series, choose the series of one class and compute the prototype for this class. 
 
 
 ```python
