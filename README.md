@@ -23,7 +23,7 @@ pip ...
 
 # Getting Started
 
-Bellow there is a Quickstart Guide to TS_Evolutionary_Prototyping.
+Bellow there is a Quickstart Guide to TS_Evolutionary_Prototyping. Furthermore, two Jupyter notebooks with examples are provided within the source code. 
 
 ## Basic example ##
  
