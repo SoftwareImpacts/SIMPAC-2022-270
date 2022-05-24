@@ -44,7 +44,7 @@ Next piece of code shows a basic usage of the library. In it is shown how to imp
 Example of use of Nearest Centroid algorithm with GA-Segments:
 
 ```python
-	>>> from ga_segments.nc import NC
+	>>> from TS_Evolutionary_Prototyping.nc import NC
 	>>> import pandas as pd
 	>>> from sklearn.model_selection import train_test_split
 	
