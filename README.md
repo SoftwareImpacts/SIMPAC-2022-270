@@ -60,5 +60,5 @@ Example of use of Nearest Centroid algorithm with GA-Segments:
  
  If TS_Evolutionary_Prototyping has been useful in your research, please, consider citing the next article:
  
-(https://www.sciencedirect.com/science/article/pii/S0020025519308965)
+[An evolutionary approach for efficient prototyping of large time series datasets](https://www.sciencedirect.com/science/article/pii/S0020025519308965)
 
