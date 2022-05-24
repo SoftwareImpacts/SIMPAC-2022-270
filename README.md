@@ -41,7 +41,7 @@ Next piece of code shows a basic usage of the library. In it is shown how to imp
 ```
 	
 	
-Example of use of Nearest Centroid algorithm with GA-Segments:
+Example of use of Nearest Centroid algorithm with TS_Evolutionary_Prototyping.:
 
 ```python
 	>>> from TS_Evolutionary_Prototyping.nc import NC
