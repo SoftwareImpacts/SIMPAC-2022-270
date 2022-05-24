@@ -26,7 +26,7 @@ setup(name='TS_Evolutionary_Prototyping',
 
           'License :: OSI Approved :: MIT License',
 
-          'Programming Language :: Python :: 3.6',
+          'Programming Language :: Python :: 0.3.1',
           'Topic :: Scientific/Engineering',
       ],
       keywords='lib Time Series prototyping',
@@ -37,7 +37,7 @@ setup(name='TS_Evolutionary_Prototyping',
                           'sklearn',
                           'numba',
                           'pandas',                   
-                          'matplotlib'
+                          'matplotlib',
                           'deap'],
 
       test_require = ['colorednoise'],
