@@ -11,7 +11,11 @@ The implemented software allows to find it from a set of time series using the d
 
 ## Installation ##
 
-pip install git+https://github.com/lrbenitez/TS_Evolutionary_Prototyping#egg=TS_Evolutionary_Prototyping
+Requirements
+
+To install the requirements you can use the following command:
+
+pip install -U -r requirements.txt
 
 ## Dependencies ##
 
